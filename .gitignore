@@ -1,0 +1,32 @@
+# Keil build output
+*.uvguix.*
+*.uvoptx
+*.uvprojx
+*.lst
+*.hex
+*.axf
+*.bin
+*.elf
+*.map
+*.obj
+*.o
+*.d
+*.crf
+*.sct
+
+# Keil settings
+JLinkSettings.ini
+JLinkLog.txt
+
+# STM32CubeMX
+.mxproject
+*.ioc
+
+# System
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# OpenCode/Editor
+*.code-workspace

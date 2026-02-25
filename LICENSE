@@ -1,0 +1,98 @@
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal - Permissive
+
+Copyright (C) 2023 Banzang (China University of Mining and Technology)
+
+This source document is licensed under the CERN-OHL-S v2.
+
+You may redistribute and modify this document under the terms of the
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal (https://ohwr.org/cern_ohl_s_v2.txt).
+
+This document is distributed without any warranty, including any
+implied warranties of merchantability, fitness for a particular purpose
+or non-infringement. See the CERN Open Hardware Licence Version 2 for
+more details.
+
+------------------------------------------------------------------------
+
+FULL LICENSE TEXT:
+
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+
+Preamble
+
+Through this licence, CERN and the recipient of this document (hereafter
+"the Licensee") agree to the following terms and conditions for the
+use and modification of this document (hereafter "the Licensed
+Material").
+
+The Licensee may use, copy, modify and redistribute the Licensed
+Material, provided that the Licensee distributes the Licensed Material
+under the same terms of this licence ("CERN-OHL-S").
+
+The Licensee may use the Licensed Material to create products. If the
+Licensee creates products that include or are derived from the Licensed
+Material, the Licensee must also distribute the source code of those
+products under the same terms of this licence. In addition, the
+Licensee must make the source code of those products available to any
+person to whom the Licensee distributes those products.
+
+If the Licensee modifies the Licensed Material, the Licensee must make
+the modified source code of the Licensed Material available under the
+same terms of this licence.
+
+The Licensee must ensure that any person to whom the Licensee
+distributes the Licensed Material receives a copy of this licence.
+
+If the Licensee creates products that include the Licensed Material,
+the Licensee must make the source code of those products available.
+The Licensee may charge a reasonable fee for this service, but may
+not require recipients of the Licensed Material to agree to any
+additional terms or conditions as a condition of providing the source
+code.
+
+The Licensee must not claim any warranty over the Licensed Material
+and must clearly state that the Licensed Material is provided "as is"
+without warranty of any kind.
+
+The Licensee must not use the name, trademarks, logo or any other
+identifying characteristic of CERN (including but not limited to the
+CERN name, logo and the "CERN-OHL" licence text) to endorse or promote
+products derived from the Licensed Material without prior written
+permission from CERN. The Licensee may however state that the Licensed
+Material is based on or derived from work done by CERN.
+
+This licence does not exclude any liability of CERN, nor does it
+affect any rights that the Licensee may have under applicable law.
+
+Definitions
+
+"CERN" means the Organisation Europeanne pour Nucleaire or any
+successor entity.
+
+"Licence" means this CERN Open Hardware Licence.
+
+"Licensed Material" means the document or product identified as such
+in the notice section of this document.
+
+"Licensee" means any natural or legal person exercising rights under
+this licence.
+
+"Source Code" means the preferred form of the Licensed Material for
+making modifications to it.
+
+"You" or "the Licensee" means the person or entity exercising rights
+under this licence.
+
+Notice
+
+The licence text above is the full text of the licence. It must be
+included in all copies or substantial portions of the Licensed
+Material.
+
+This document is licensed under CERN-OHL-S v2. It may be used,
+distributed and modified under those terms.
+
+This document is provided "as is" without any warranty of any kind,
+including any implied warranty of merchantability, fitness for a
+particular purpose, non-infringement, or any warranty that the
+Licensed Material is free of any rightful claim of any third party.
